@@ -85,6 +85,7 @@
           img-top
         >
           <b-button variant="outline-light" class="btn">ORDER RELEASES</b-button>
+          <b-button variant="outline-light" class="btn">ORDER RELEASES</b-button>
           
           <br />
           <br />
